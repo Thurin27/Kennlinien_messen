@@ -1,0 +1,232 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.17.6"
+  },
+  "cells": [
+    {
+      "id": "SFPL",
+      "code_hash": "024d7b91a80e2a9b03becadad9297188",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"messung-der-anlagenkennlinie-mit-einer-frequenzgesteuerten-kreiselradpumpe\">Messung der Anlagenkennlinie mit einer frequenzgesteuerten Kreiselradpumpe</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "d96fc93910d0ea94b4df9fa2ee619ba7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"messung-der-pumpenkennlinie-mit-einem-drosselventil\">Messung der Pumpenkennlinie mit einem Drosselventil</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "e2fe0adfa8122340823988f5c740fb4c",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "af703960d9afc0fdd81407a48602b713",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "b4753fa5463c10361a96fb7f5f5e4e4a",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "a7b6d623be61a51de15543d93eb7a182",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "158077ba1a49d75bd3c05116495324f6",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "2fa71716b5735e45511faf47c51202b5",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "76e432073605604ce1bb889636046dfc",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "3f35988340085d03eaf8c6027cb672b3",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "9b8f4a961ac340a369b082f0d24046eb",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "98af72e41ec11195a85b9f1378976031",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "09b897b7e532eaab1321990b850c43c6",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "522e099f254a010a4f0044e7136a95be",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "fe4d7365ccf7fc64bf19a71b1391890f",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "a42d543fa0ccaabfb875a7add4f5ef44",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "ad4e290076a706e59cd79787634b1a07",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "1cba60ad2c5b898285dbb34c0a356637",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "f4ad380a2836654a2b193ce558e7c860",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "de9c7a968b48add9ff208ac810fb1412",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "DnEU",
+      "code_hash": "4645ced7380007d704ededf7d4eca7fc",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ulZA",
+      "code_hash": "480456b42faa6a33476846b3f9896599",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ecfG",
+      "code_hash": "11487dfc9816f2e9f9f44e9cd7470cd4",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Pvdt",
+      "code_hash": "05d60406b3a2139043d3a3d3e3d43395",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ZBYS",
+      "code_hash": "29471d26e527cc0d4dbedc14821c9690",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "aLJB",
+      "code_hash": "de2d0a2179ed3e5e80c5b9386fad86b0",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "nHfw",
+      "code_hash": "ff6a1db1a2317b993add3c7b7dc1133c",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "xXTn",
+      "code_hash": "a6c310e5404492e3bdd760049877b2ad",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "AjVT",
+      "code_hash": "cdb6cff586ab213b8b69814babd48594",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "pHFh",
+      "code_hash": "ec773ba87cc66e3c4985daaba7292e16",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "NCOB",
+      "code_hash": "a3920f4154975711bf411bb5a5b6f032",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "aqbW",
+      "code_hash": "7ac3bf85b37c1410d0488be99d400e77",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "TRpd",
+      "code_hash": "0f4e32db8fdd08ec27d35acf707be3cb",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "TXez",
+      "code_hash": "f5aa70ea8b46950a52da1fdddcf037f7",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "dNNg",
+      "code_hash": "5d229c577923e3554be3e7741b4b1f1f",
+      "outputs": [],
+      "console": []
+    }
+  ]
+}

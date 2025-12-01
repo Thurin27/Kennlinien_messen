@@ -1,0 +1,463 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.17.6"
+  },
+  "cells": [
+    {
+      "id": "SFPL",
+      "code_hash": "96154dc3920f79925360231310ef1090",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "073a92181ebbd82f2c42c03a6c3b7da9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "e2fe0adfa8122340823988f5c740fb4c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "ed52c18bcbb8dad3419db752c8645de9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "b4753fa5463c10361a96fb7f5f5e4e4a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "a7b6d623be61a51de15543d93eb7a182",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "0ddf69736ba03f2d074698b0fd138d6d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "2fa71716b5735e45511faf47c51202b5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "76e432073605604ce1bb889636046dfc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "3f35988340085d03eaf8c6027cb672b3",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "9b8f4a961ac340a369b082f0d24046eb",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "98af72e41ec11195a85b9f1378976031",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "09b897b7e532eaab1321990b850c43c6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "522e099f254a010a4f0044e7136a95be",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "fe4d7365ccf7fc64bf19a71b1391890f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "a42d543fa0ccaabfb875a7add4f5ef44",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "15f7545f8934983b41fd478c48343a1a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "61019bc2baf946ba511934998dbf38e8",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "a82fc69927435c904c6de51042af6246",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "dab2ad22c69d7759bc282db9c6912601",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "DnEU",
+      "code_hash": "4645ced7380007d704ededf7d4eca7fc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ulZA",
+      "code_hash": "480456b42faa6a33476846b3f9896599",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ecfG",
+      "code_hash": "11487dfc9816f2e9f9f44e9cd7470cd4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Pvdt",
+      "code_hash": "05d60406b3a2139043d3a3d3e3d43395",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZBYS",
+      "code_hash": "29471d26e527cc0d4dbedc14821c9690",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aLJB",
+      "code_hash": "de2d0a2179ed3e5e80c5b9386fad86b0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nHfw",
+      "code_hash": "ff6a1db1a2317b993add3c7b7dc1133c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "xXTn",
+      "code_hash": "1c5fd641d750bc4e3ef7b6cf400e37d1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "AjVT",
+      "code_hash": "0b76ecc87f300300490fe6d301ebfdea",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "pHFh",
+      "code_hash": "836eefd88db994777214bb835da8a7b2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "NCOB",
+      "code_hash": "a3920f4154975711bf411bb5a5b6f032",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aqbW",
+      "code_hash": "7da41fbb573a5ff367a260bc44e5c223",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TRpd",
+      "code_hash": "0f4e32db8fdd08ec27d35acf707be3cb",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TXez",
+      "code_hash": "f5aa70ea8b46950a52da1fdddcf037f7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "dNNg",
+      "code_hash": "5d229c577923e3554be3e7741b4b1f1f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='dNNg-0' random-id='9502bf20-7cc0-8a2f-16fd-8363a8139bf4'><marimo-tabs data-initial-value='&quot;&quot;' data-label='null' data-tabs='[&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;\ud83d\udcc8 Anlagenkennlinie&lt;/span&gt;&lt;/span&gt;&quot;,&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;\ud83d\udcca Pumpenkennlinie&lt;/span&gt;&lt;/span&gt;&quot;]'><div data-kind='tab'><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"messung-der-anlagenkennlinie-mit-einer-frequenzgesteuerten-kreiselradpumpe\">Messung der Anlagenkennlinie mit einer frequenzgesteuerten Kreiselradpumpe</h1></span><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"daten-zur-anlage\">Daten zur Anlage:</h2></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Geod\u00e4tische Saugh\u00f6he: 3 m</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Geod\u00e4tische Druckh\u00f6he: 14 m</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Gesamte Leitungsl\u00e4nge 85 m mit DN 125</span></span><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"frequenzumformer\">Frequenzumformer:</h2></span><marimo-ui-element object-id='vblA-0' random-id='e9bb0a1c-2413-c9ad-5cde-4b780950ed99'><marimo-slider data-initial-value='10' data-label='null' data-start='10' data-stop='65' data-step='5' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">10 Hz</span></span></div></div><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0rem'><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-start;align-items: flex-end;flex-wrap: nowrap;gap: 0rem'><img src='./@file/12651-549429-MnZROHgB.png' style='width: 200px;height: 150px' /><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0rem'><div style='width: 48px; height: 12px; background-color: black; display: block;'></div><div style='width: 12px; height: 30.0px; background-color: white; display: block;'></div></div><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-end;flex-wrap: nowrap;gap: 0rem'><div style='width: 12px; height: 253.20000000000002px; background-color: white; display: block;'></div><div style='width: 12px; height: 156px; background-color: black; display: block;'></div><div style='width: 12px; height: 30.0px; background-color: white; display: block;'></div></div></div><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-end;flex-wrap: nowrap;gap: 0rem'><div style='width: 12px; height: 168px; background-color: white; display: block;'></div><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">-0.29 bar</span></span><img src='./@file/16950-549429-yAC1iRAU.png' style='width: 40px;height: 60px' /><div style='width: 72px; height: 12px; background-color: black; display: block;'></div></div><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0rem'><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-end;align-items: flex-end;flex-wrap: nowrap;gap: 0rem'><div style='width: 20.4px; height: 12px; background-color: white; display: block;'></div><div style='width: 12px; height: 60px; background-color: black; display: block;'></div><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0rem'><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-end;align-items: flex-start;flex-wrap: nowrap;gap: 5rem'><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">1.75 bar</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">1.75 <marimo-tex class=\"arithmatex\">||(m^3/h||)</marimo-tex></span></span></div><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-end;align-items: flex-end;flex-wrap: nowrap;gap: 5rem'><img src='./@file/16950-549429-yAC1iRAU.png' style='width: 40px;height: 60px' /><img src='./@file/132939-549429-fpQZmYrZ.png' style='width: 40px;height: 80px' /></div><div style='width: 180px; height: 12px; background-color: black; display: block;'></div><div style='width: 12px; height: 48px; background-color: white; display: block;'></div></div><img src='./@file/12651-549429-MnZROHgB.png' style='width: 200px;height: 150px' /></div><img src='./@file/36615-549429-Qd8XhE46.png' style='width: 140px;height: 140px' /></div></div></div></div><div data-kind='tab'><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"messung-der-pumpenkennlinie-mit-einem-drosselventil\">Messung der Pumpenkennlinie mit einem Drosselventil</h1></span><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"daten-zur-anlage\">Daten zur Anlage:</h2></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Geod\u00e4tische Saugh\u00f6he: 3 m</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Geod\u00e4tische Druckh\u00f6he: 14 m</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Gesamte Leitungsl\u00e4nge 85 m mit DN 125</span></span><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"drosselventil\">Drosselventil:</h2></span><marimo-ui-element object-id='bkHC-0' random-id='fc75e5c2-ac00-5a34-d432-89a7f0a6999d'><marimo-slider data-initial-value='10' data-label='null' data-start='10' data-stop='100' data-step='10' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">10 % Querschnitts\u00f6ffnung</span></span></div></div><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0rem'><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-start;align-items: flex-end;flex-wrap: nowrap;gap: 0rem'><img src='./@file/12651-549429-MnZROHgB.png' style='width: 200px;height: 150px' /><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0rem'><div style='width: 48px; height: 12px; background-color: black; display: block;'></div><div style='width: 12px; height: 30.0px; background-color: white; display: block;'></div></div><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-end;flex-wrap: nowrap;gap: 0rem'><div style='width: 12px; height: 253.20000000000002px; background-color: white; display: block;'></div><div style='width: 12px; height: 156px; background-color: black; display: block;'></div><div style='width: 12px; height: 30.0px; background-color: white; display: block;'></div></div></div><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-end;flex-wrap: nowrap;gap: 0rem'><div style='width: 12px; height: 168px; background-color: white; display: block;'></div><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">-0.29 bar</span></span><img src='./@file/16950-549429-yAC1iRAU.png' style='width: 40px;height: 60px' /><div style='width: 72px; height: 12px; background-color: black; display: block;'></div></div><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0rem'><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-end;align-items: flex-end;flex-wrap: nowrap;gap: 0rem'><div style='width: 20.4px; height: 12px; background-color: white; display: block;'></div><div style='width: 12px; height: 60px; background-color: black; display: block;'></div><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0rem'><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-end;align-items: flex-start;flex-wrap: nowrap;gap: 5rem'><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">1.75 bar</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">1.75 <marimo-tex class=\"arithmatex\">||(m^3/h||)</marimo-tex></span></span></div><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-end;align-items: flex-end;flex-wrap: nowrap;gap: 5rem'><img src='./@file/16950-549429-yAC1iRAU.png' style='width: 40px;height: 60px' /><img src='./@file/132939-549429-fpQZmYrZ.png' style='width: 40px;height: 80px' /></div><div style='width: 180px; height: 12px; background-color: black; display: block;'></div><div style='width: 12px; height: 48px; background-color: white; display: block;'></div></div><img src='./@file/12651-549429-MnZROHgB.png' style='width: 200px;height: 150px' /></div><img src='./@file/36615-549429-Qd8XhE46.png' style='width: 140px;height: 140px' /></div></div></div></div></marimo-tabs></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

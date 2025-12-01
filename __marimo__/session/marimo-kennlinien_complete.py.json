@@ -1,0 +1,255 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.17.6"
+  },
+  "cells": [
+    {
+      "id": "Xref",
+      "code_hash": "96154dc3920f79925360231310ef1090",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "073a92181ebbd82f2c42c03a6c3b7da9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "e2fe0adfa8122340823988f5c740fb4c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "b4753fa5463c10361a96fb7f5f5e4e4a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "a7b6d623be61a51de15543d93eb7a182",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "0ddf69736ba03f2d074698b0fd138d6d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "2fa71716b5735e45511faf47c51202b5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "76e432073605604ce1bb889636046dfc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "3f35988340085d03eaf8c6027cb672b3",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "9b8f4a961ac340a369b082f0d24046eb",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "98af72e41ec11195a85b9f1378976031",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "09b897b7e532eaab1321990b850c43c6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "522e099f254a010a4f0044e7136a95be",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "fe4d7365ccf7fc64bf19a71b1391890f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "a42d543fa0ccaabfb875a7add4f5ef44",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "1347f5b6321cf85762c3730817a0d216",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "a4bc3873614659a84f9b0393a2d6e960",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "4748f40ec5af0d0a95fb0f62f153b1b9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "5d229c577923e3554be3e7741b4b1f1f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='TqIu-0' random-id='0ba9283d-d8ae-e0d3-53a7-42af5a921d8c'><marimo-tabs data-initial-value='&quot;&quot;' data-label='null' data-tabs='[&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;\ud83d\udcc8 Anlagenkennlinie&lt;/span&gt;&lt;/span&gt;&quot;,&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;\ud83d\udcca Pumpenkennlinie&lt;/span&gt;&lt;/span&gt;&quot;]'><div data-kind='tab'><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"messung-der-anlagenkennlinie-mit-einer-frequenzgesteuerten-kreiselradpumpe\">Messung der Anlagenkennlinie mit einer frequenzgesteuerten Kreiselradpumpe</h1></span><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"daten-zur-anlage\">Daten zur Anlage:</h2></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Geod\u00e4tische Saugh\u00f6he: 3 m</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Geod\u00e4tische Druckh\u00f6he: 14 m</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Gesamte Leitungsl\u00e4nge 85 m mit DN 125</span></span><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"frequenzumformer\">Frequenzumformer:</h2></span><marimo-ui-element object-id='MJUe-0' random-id='8d2b07cc-d2ca-a87e-f215-5ddf3223a222'><marimo-slider data-initial-value='10' data-label='null' data-start='10' data-stop='65' data-step='5' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">10 Hz</span></span></div></div>\n<div style=\"display: flex; align-items: flex-end; justify-content: flex-start; gap: 0px; position: relative;\">\n    <!-- Linkes Becken -->\n    <div style=\"position: relative;\">\n        <img src=\"./Becken_Grafik.png\" width=\"200\" height=\"150\" style=\"display: block;\"/>\n    </div>\n\n    <!-- Verbindungsrohr unten links (horizontal) -->\n    <svg width=\"60\" height=\"150\" style=\"display: block;\">\n        <rect x=\"0\" y=\"118\" width=\"60\" height=\"12\" fill=\"#000000\"/>\n    </svg>\n\n    <!-- Vertikales Rohr -->\n    <svg width=\"12\" height=\"150\" style=\"display: block;\">\n        <rect x=\"0\" y=\"0\" width=\"12\" height=\"150\" fill=\"#000000\"/>\n    </svg>\n\n    <!-- Horizontales Rohr oben zur Pumpe -->\n    <svg width=\"50\" height=\"150\" style=\"display: block;\">\n        <rect x=\"0\" y=\"0\" width=\"50\" height=\"12\" fill=\"#000000\"/>\n    </svg>\n\n    <!-- Pumpe mit Manometer -->\n    <div style=\"position: relative; display: flex; flex-direction: column; align-items: center;\">\n        <!-- Manometer Saugseite -->\n        <div style=\"text-align: center; margin-bottom: 5px;\">\n            <div style=\"font-size: 14px; margin-bottom: 5px;\">-0.29 bar</div>\n            <img src=\"./Manometer_Grafik.png\" width=\"40\" height=\"60\" style=\"display: block; margin: 0 auto;\"/>\n        </div>\n\n        <!-- Horizontales Rohr unter Manometer -->\n        <svg width=\"80\" height=\"12\" style=\"display: block; margin-bottom: 5px;\">\n            <rect x=\"0\" y=\"0\" width=\"80\" height=\"12\" fill=\"#000000\"/>\n        </svg>\n\n        <!-- Pumpe -->\n        <img src=\"./Pumpe_Grafik.png\" width=\"140\" height=\"140\" style=\"display: block;\"/>\n    </div>\n\n    <!-- Rohre von Pumpe nach rechts -->\n    <div style=\"display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-end;\">\n        <!-- Oberer Teil: Druckseite -->\n        <div style=\"display: flex; align-items: center; margin-bottom: 70px;\">\n            <!-- Horizontales Rohr -->\n            <svg width=\"140\" height=\"12\" style=\"display: block;\">\n                <rect x=\"0\" y=\"0\" width=\"140\" height=\"12\" fill=\"#000000\"/>\n            </svg>\n\n            <!-- Messger\u00e4te Druckseite -->\n            <div style=\"text-align: center;\">\n                <div style=\"font-size: 14px; margin-bottom: 5px;\">1.75 bar</div>\n                <div style=\"display: flex; gap: 5px; align-items: flex-end; margin-bottom: 5px;\">\n                    <img src=\"./Manometer_Grafik.png\" width=\"40\" height=\"60\" style=\"display: block;\"/>\n                    <img src=\"./MID_Grafik.png\" width=\"40\" height=\"80\" style=\"display: block;\"/>\n                </div>\n                <div style=\"font-size: 14px;\">1.75 m\u00b3/h</div>\n            </div>\n\n            <!-- Horizontales Rohr zum rechten Becken -->\n            <svg width=\"180\" height=\"12\" style=\"display: block;\">\n                <rect x=\"0\" y=\"0\" width=\"180\" height=\"12\" fill=\"#000000\"/>\n            </svg>\n        </div>\n\n        <!-- Unterer Teil: Saugseite Abstandhalter -->\n        <div style=\"height: 70px;\"></div>\n    </div>\n\n    <!-- Rechtes Becken -->\n    <div style=\"position: relative;\">\n        <img src=\"./Becken_Grafik.png\" width=\"200\" height=\"150\" style=\"display: block;\"/>\n    </div>\n</div>\n</div></div><div data-kind='tab'><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: flex-start;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"messung-der-pumpenkennlinie-mit-einem-drosselventil\">Messung der Pumpenkennlinie mit einem Drosselventil</h1></span><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"daten-zur-anlage\">Daten zur Anlage:</h2></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Geod\u00e4tische Saugh\u00f6he: 3 m</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Geod\u00e4tische Druckh\u00f6he: 14 m</span></span><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Gesamte Leitungsl\u00e4nge 85 m mit DN 125</span></span><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"drosselventil\">Drosselventil:</h2></span><marimo-ui-element object-id='vblA-0' random-id='b56cb85b-1d21-5659-0a90-d2afdf29a94a'><marimo-slider data-initial-value='10' data-label='null' data-start='10' data-stop='100' data-step='10' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">10 % Querschnitts\u00f6ffnung</span></span></div></div>\n<div style=\"display: flex; align-items: flex-end; justify-content: flex-start; gap: 0px; position: relative;\">\n    <!-- Linkes Becken -->\n    <div style=\"position: relative;\">\n        <img src=\"./Becken_Grafik.png\" width=\"200\" height=\"150\" style=\"display: block;\"/>\n    </div>\n\n    <!-- Verbindungsrohr unten links (horizontal) -->\n    <svg width=\"60\" height=\"150\" style=\"display: block;\">\n        <rect x=\"0\" y=\"118\" width=\"60\" height=\"12\" fill=\"#000000\"/>\n    </svg>\n\n    <!-- Vertikales Rohr -->\n    <svg width=\"12\" height=\"150\" style=\"display: block;\">\n        <rect x=\"0\" y=\"0\" width=\"12\" height=\"150\" fill=\"#000000\"/>\n    </svg>\n\n    <!-- Horizontales Rohr oben zur Pumpe -->\n    <svg width=\"50\" height=\"150\" style=\"display: block;\">\n        <rect x=\"0\" y=\"0\" width=\"50\" height=\"12\" fill=\"#000000\"/>\n    </svg>\n\n    <!-- Pumpe mit Manometer -->\n    <div style=\"position: relative; display: flex; flex-direction: column; align-items: center;\">\n        <!-- Manometer Saugseite -->\n        <div style=\"text-align: center; margin-bottom: 5px;\">\n            <div style=\"font-size: 14px; margin-bottom: 5px;\">-0.29 bar</div>\n            <img src=\"./Manometer_Grafik.png\" width=\"40\" height=\"60\" style=\"display: block; margin: 0 auto;\"/>\n        </div>\n\n        <!-- Horizontales Rohr unter Manometer -->\n        <svg width=\"80\" height=\"12\" style=\"display: block; margin-bottom: 5px;\">\n            <rect x=\"0\" y=\"0\" width=\"80\" height=\"12\" fill=\"#000000\"/>\n        </svg>\n\n        <!-- Pumpe -->\n        <img src=\"./Pumpe_Grafik.png\" width=\"140\" height=\"140\" style=\"display: block;\"/>\n    </div>\n\n    <!-- Rohre von Pumpe nach rechts -->\n    <div style=\"display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-end;\">\n        <!-- Oberer Teil: Druckseite -->\n        <div style=\"display: flex; align-items: center; margin-bottom: 70px;\">\n            <!-- Horizontales Rohr -->\n            <svg width=\"140\" height=\"12\" style=\"display: block;\">\n                <rect x=\"0\" y=\"0\" width=\"140\" height=\"12\" fill=\"#000000\"/>\n            </svg>\n\n            <!-- Messger\u00e4te Druckseite -->\n            <div style=\"text-align: center;\">\n                <div style=\"font-size: 14px; margin-bottom: 5px;\">1.75 bar</div>\n                <div style=\"display: flex; gap: 5px; align-items: flex-end; margin-bottom: 5px;\">\n                    <img src=\"./Manometer_Grafik.png\" width=\"40\" height=\"60\" style=\"display: block;\"/>\n                    <img src=\"./MID_Grafik.png\" width=\"40\" height=\"80\" style=\"display: block;\"/>\n                </div>\n                <div style=\"font-size: 14px;\">1.75 m\u00b3/h</div>\n            </div>\n\n            <!-- Horizontales Rohr zum rechten Becken -->\n            <svg width=\"180\" height=\"12\" style=\"display: block;\">\n                <rect x=\"0\" y=\"0\" width=\"180\" height=\"12\" fill=\"#000000\"/>\n            </svg>\n        </div>\n\n        <!-- Unterer Teil: Saugseite Abstandhalter -->\n        <div style=\"height: 70px;\"></div>\n    </div>\n\n    <!-- Rechtes Becken -->\n    <div style=\"position: relative;\">\n        <img src=\"./Becken_Grafik.png\" width=\"200\" height=\"150\" style=\"display: block;\"/>\n    </div>\n</div>\n</div></div></marimo-tabs></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
